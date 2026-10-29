@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67022605578",
+    "project_id": "a-bodhi-citta",
+    "storage_bucket": "a-bodhi-citta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67022605578:android:0db3df9bb9b06cccab7ef3",
+        "android_client_info": {
+          "package_name": "com.example.abcitta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67022605578-78mh7fcr15frp5l2ppake27sh9eh1cmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abcitta",
+            "certificate_hash": "8dfed75b044bda10ac5526ba02f4937a6b6be242"
+          }
+        },
+        {
+          "client_id": "67022605578-srh905g95mbe2i0njmght0cmo68pmugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3Cy-VZUIGqIOq0yV3t2QRPQrMEudaes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67022605578-srh905g95mbe2i0njmght0cmo68pmugl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

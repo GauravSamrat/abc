@@ -1,0 +1,65 @@
+name: abcitta
+description: "Abcitta — Cognitive mind-mapping & focus app."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Rich Text
+  flutter_quill: ^11.0.0
+  markdown_quill: ^4.1.0
+  markdown: ^7.1.0
+  flutter_colorpicker: ^1.0.3
+  flutter_markdown: ^0.7.7+1
+  url_launcher: ^6.3.3
+  intl: ^0.20.2
+
+  # Auth
+  google_sign_in: ^6.2.1
+
+  # State & Storage
+  provider: ^6.1.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.4
+
+  # Firebase
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  cloud_firestore: ^5.0.1
+  firebase_storage: ^12.4.10
+
+  # Audio & Voice
+  flutter_tts: ^4.2.5 
+  speech_to_text: ^7.0.0 
+  just_audio: ^0.9.40
+  record: ^7.1.2
+
+  # Media — Images & Video
+  image_picker: ^1.2.4
+  video_player: ^2.9.2
+  chewie: ^1.8.5
+  file_picker: ^10.0.0  # 👈 Naya version jo compileSdk 36 support karta hai
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+
+# 👇 Ye bahar hona chahiye, bilkul left side se (zero space)
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 21

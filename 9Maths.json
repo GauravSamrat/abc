@@ -1,0 +1,136 @@
+[
+  {
+    "id": "math_root",
+    "title": "Class 9th Mathematics",
+    "parentId": null,
+    "type": "study",
+    "colorHex": "#7B9EA8",
+    "notes": "Complete NCERT Class 9th Math Syllabus. Click on the chapters to explore the concepts, formulas, and practice questions."
+  },
+  {
+    "id": "ch1_number_systems",
+    "title": "📘 Chapter 1: Number Systems",
+    "parentId": "math_root",
+    "type": "study",
+    "colorHex": "#D4A373",
+    "notes": "Is chapter mein hum numbers ki duniya ko explore karenge. Rational aur Irrational numbers ke beech ka farq samjhenge."
+  },
+  {
+    "id": "ch1_1_intro",
+    "title": "1. Introduction to Numbers",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#A5A58D",
+    "notes": "Sabse pehle samajhte hain ki numbers kitne types ke hote hain:\n\n- **Natural Numbers (N)**: Counting numbers. Jaise: 1, 2, 3, 4, ...\n- **Whole Numbers (W)**: Natural numbers + 0. Jaise: 0, 1, 2, 3, ...\n- **Integers (Z)**: Whole numbers + Negative numbers. Jaise: ..., -3, -2, -1, 0, 1, 2, 3, ...",
+    "links": [
+      { "title": "Khan Academy: Number Types", "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:number-types/v/categorizing-numbers" }
+    ]
+  },
+  {
+    "id": "ch1_2_irrational",
+    "title": "2. Irrational Numbers (अपरिमेय संख्याएँ)",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#CB997E",
+    "notes": "Woh numbers jo p/q ke form mein nahi likhe ja sakte, unhe Irrational Numbers kehte hain.\n\n**Pehchaan kaise karein?** Inka decimal expansion **Non-terminating** (khatam nahi hota) aur **Non-recurring** (repeat nahi hota) hota hai.\n\n**Examples:**\n- √2 = 1.41421356... (na khatam, na repeat)\n- π (Pi) = 3.14159265...\n- √3, √5, e (Euler's number)",
+    "links": [
+      { "title": "Irrational Numbers Explained", "url": "https://byjus.com/maths/irrational-numbers/" }
+    ]
+  },
+  {
+    "id": "ch1_3_real_numbers",
+    "title": "3. Real Numbers & Decimal Expansions",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#B5838D",
+    "notes": "Rational aur Irrational numbers ko mila kar 'Real Numbers' bante hain.\n\n**Rational Numbers ka Decimal Expansion:**\n1. **Terminating**: Jaise 1/2 = 0.5 (khatam ho gaya).\n2. **Non-terminating Recurring**: Jaise 1/3 = 0.333... (repeat ho raha hai)."
+  },
+  {
+    "id": "ch1_4_operations",
+    "title": "4. Operations on Real Numbers",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#7B9EA8",
+    "notes": "Rational aur Irrational numbers ke beech ka math:\n\n- rational + rational = rational\n- rational × irrational = irrational\n- irrational + irrational = ho sakta hai rational ho jaye (jaise √2 + (-√2) = 0)"
+  },
+  {
+    "id": "ch1_5_rationalization",
+    "title": "5. Rationalization (परिमेयकरण)",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#9C89B8",
+    "notes": "Jab denominator (niche wala number) mein root (√) hota hai, toh hum usko hatane ke liye uske 'Conjugate' se multiply karte hain.\n\n**Example:** \n1 / (√5 - √3) \nIsko rationalize karne ke liye (√5 + √3) se upar-niche multiply karenge."
+  },
+  {
+    "id": "ch1_6_exponents",
+    "title": "6. Laws of Exponents (घातांक के नियम)",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#E8D5B7",
+    "notes": "Exponents ke kuch main rules:\n\n- a^m × a^n = a^(m+n)\n- a^m ÷ a^n = a^(m-n)\n- (a^m)^n = a^(mn)\n- a^(m/n) = n-th root of a^m"
+  },
+  {
+    "id": "ch1_7_examples",
+    "title": "7. Solved Examples (NCERT)",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#D4A373",
+    "notes": "Yahan hum NCERT ke important solved examples ko dekhenge, jaise:\n- Kaise pata karein ki number rational hai ya irrational?\n- Decimal expansion ko kaise likhein?"
+  },
+  {
+    "id": "ch1_8_practice",
+    "title": "8. Practice Questions (Test Yourself)",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#A5A58D",
+    "notes": "Apne aap ko test karein:\n1. √5 rational hai ya irrational? Prove karein.\n2. 3.142857... ko p/q form mein likhein.\n3. (√7 + √3) ko rationalize karein."
+  },
+  {
+    "id": "ch1_9_must_remember",
+    "title": "9. Must Remember (Formulas & Facts)",
+    "parentId": "ch1_number_systems",
+    "type": "study",
+    "colorHex": "#CB997E",
+    "notes": "Quick Revision:\n- Har integer ek rational number hota hai.\n- Sabhi natural numbers whole numbers hote hain.\n- (a+b)(a-b) = a^2 - b^2 (Rationalization mein bahut kaam aata hai)."
+  },
+  {
+    "id": "ch2_polynomials",
+    "title": "📘 Chapter 2: Polynomials",
+    "parentId": "math_root",
+    "type": "study",
+    "colorHex": "#B5838D",
+    "notes": "Polynomials are expressions consisting of variables and coefficients (jaise 2x^2 + 3x - 5)."
+  },
+  {
+    "id": "ch2_1_intro",
+    "title": "1. Introduction to Polynomials",
+    "parentId": "ch2_polynomials",
+    "type": "study",
+    "colorHex": "#7B9EA8",
+    "notes": "Polynomial kya hai? Ek aisi expression jisme variables ki power (exponent) ek non-negative integer (0, 1, 2, 3...) ho."
+  },
+  {
+    "id": "ch2_2_types",
+    "title": "2. Types of Polynomials",
+    "parentId": "ch2_polynomials",
+    "type": "study",
+    "colorHex": "#9C89B8",
+    "notes": "Terms ke hisaab se:\n- **Monomial**: 1 term (jaise 5x)\n- **Binomial**: 2 terms (jaise 2x + 3)\n- **Trinomial**: 3 terms (jaise x^2 + 2x + 1)\n\nDegree ke hisaab se:\n- **Linear**: Degree 1 (2x + 3)\n- **Quadratic**: Degree 2 (x^2 - 4)\n- **Cubic**: Degree 3 (x^3 + 2x^2)"
+  },
+  {
+    "id": "ch2_3_zeroes",
+    "title": "3. Zeroes of a Polynomial",
+    "parentId": "ch2_polynomials",
+    "type": "study",
+    "colorHex": "#E8D5B7",
+    "notes": "Zero of a polynomial matlab 'x' ki woh value jiske liye pura polynomial 0 ho jaye.\n\n**Example**: P(x) = x^2 - 4. \nAgar x = 2 rakhein, toh P(2) = 4 - 4 = 0. Toh 2 iska zero hai."
+  },
+  {
+    "id": "ch2_4_remainder_theorem",
+    "title": "4. Remainder Theorem",
+    "parentId": "ch2_polynomials",
+    "type": "study",
+    "colorHex": "#D4A373",
+    "notes": "Agar ek polynomial P(x) ko (x - a) se divide karein, toh Remainder P(a) hoga.\n\n**Example**: P(x) = x^2 - 3x + 2 ko (x - 1) se divide karein.\nToh Remainder = P(1) = 1 - 3 + 2 = 0."
+  }
+]

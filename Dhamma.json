@@ -1,0 +1,85 @@
+[
+  {
+    "id": "dhamma_root",
+    "title": "Dhamma / धम्म — The True Teaching",
+    "parentId": null,
+    "type": "study",
+    "colorHex": "#E8D5B7",
+    "notes": "Welcome to the Manuals of Dhamma. Click on the sub-nodes to explore the deep teachings of Ven. Ledi Sayadaw."
+  },
+  {
+    "id": "vipassana_dipani",
+    "title": "Vipassana Dipani (Manual of Insight)",
+    "parentId": "dhamma_root",
+    "type": "study",
+    "colorHex": "#E8D5B7",
+    "notes": "Yeh Ledi Sayadaw ji ka sabse famous manual hai. Isme Vipassana (Insight) meditation ke core concepts, jaise Vipallasa (Bhram), Manana (Fantasy), Abhinivesa (Firm Belief), aur Two Truths ko bahut gehrai se samjhaya gaya hai.",
+    "links": [
+      { "title": "VRI PDF", "url": "https://www.vridhamma.org/file/5469/download?token=CcwLLEuK" }
+    ]
+  },
+  {
+    "id": "three_vipallasa",
+    "title": "1. The Three Vipallasa",
+    "parentId": "vipassana_dipani",
+    "type": "study",
+    "colorHex": "#A5A58D",
+    "notes": "Vipallasa matlab aisi galat samajh jisme hum reality ko ulta samajh lete hain:\n1. Sanna-vipallasa (Perception)\n2. Citta-vipallasa (Thought)\n3. Ditthi-vipallasa (View)"
+  },
+  {
+    "id": "three_manana",
+    "title": "2. The Three Manana",
+    "parentId": "vipassana_dipani",
+    "type": "study",
+    "colorHex": "#D4A373",
+    "notes": "Manana ka matlab hai 'fantasy'. Jab hum Vipallasa ke through duniya ko galat dekhte hain, toh hum apne mann mein Manana create karte hain."
+  },
+  {
+    "id": "sammaditthi_dipani",
+    "title": "Sammaditthi Dipani (Manual of Right Views)",
+    "parentId": "dhamma_root",
+    "type": "study",
+    "colorHex": "#E8D5B7",
+    "notes": "Sammaditthi ka matlab hai 'Right View'. Ledi Sayadaw is manual mein samjhate hain ki dukh se nikalne ke liye sahi drishti sabse zaroori hai."
+  },
+  {
+    "id": "three_wrong_views",
+    "title": "11.1 Three Kinds of Wrong Views",
+    "parentId": "sammaditthi_dipani",
+    "type": "study",
+    "colorHex": "#A5A58D",
+    "notes": "1. Pubbekata (Sab past karmon se hota hai)\n2. Issaranimmana (God ne banaya hai)\n3. Ahetu (Bina kisi karan ke random hota hai)"
+  },
+  {
+    "id": "refutation_pubbekata",
+    "title": "11.2 Refutation of Pubbekata",
+    "parentId": "three_wrong_views",
+    "type": "study",
+    "colorHex": "#D4A373",
+    "notes": "Agar present ki koshish ka koi matlab nahi hai, toh koi bhi sikhna, sudharna, ya dhyan karne ki koshish kyun karega? Aisa maan lena ek badi galat samajh hai."
+  },
+  {
+    "id": "kammassakata_sammaditthi",
+    "title": "11.5 Kammassakata Sammamditthi",
+    "parentId": "sammaditthi_dipani",
+    "type": "study",
+    "colorHex": "#7B9EA8",
+    "notes": "Yeh sabse zaroori Right View hai: 'Sabhi jeev apne karmon ke maalik hain, karmon ke vaaris hain, kamma hi unka sabse bada sahara hai.'"
+  },
+  {
+    "id": "patthanuddesa_dipani",
+    "title": "Patthanuddesa Dipani (Manual of Relations)",
+    "parentId": "dhamma_root",
+    "type": "study",
+    "colorHex": "#E8D5B7",
+    "notes": "Yeh sabse advanced manual hai. Patthana Abhidhamma ka 7th aur sabse gehra book hai. Isme 24 conditions (Paccayas) bataye gaye hain."
+  },
+  {
+    "id": "what_is_patthana",
+    "title": "12.1 What is Patthana?",
+    "parentId": "patthanuddesa_dipani",
+    "type": "study",
+    "colorHex": "#A5A58D",
+    "notes": "Patthana ka matlab hai 'Pre-eminent Cause'. Buddha kehte hain ki koi bhi cheez bina kisi karan ke nahi hoti."
+  }
+]
